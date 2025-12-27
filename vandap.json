@@ -49,7 +49,7 @@
         "Lục Tuyết Kỳ trong Tru Tiên thuộc Phong nào trong Thanh Vân Môn?": "Tiểu Trúc Phong",
         "Lý Tinh Vân trong Họa Giang Hồ Chi Bất Lương Nhân sử dụng vũ khí nào sau đây?": "Long Tuyền Kiếm",
         "Lý Trường Thọ trong Sư Huynh A Sư Huynh xuyên không về Hồng Hoang bái sư ở đâu?": "Độ Tiên Môn",
-        "Man Hồ Tử trong phim \"Phàm Nhân Tu Tiên\" tu luyện công pháp nào?": "Thác Thiên Ma Công",
+   
         "Mẫu thân của La Phong trong Thôn Phệ Tinh Không tên là gì?": "Cung Tâm Lan",
         "Mẹ của Mạnh Xuyên trong Thương Nguyên Đồ tên là gì?": "Bạch Niệm Vân",
         "Mẹ của Tần Trần là ai?": "Tần Nguyệt Trì",
@@ -124,7 +124,7 @@
         "Vũ hồn của Chu Trúc Thanh là gì?": "U Minh Linh Miêu",
         "Vũ hồn của Đới Mộc Bạch là gì?": "Bạch Hổ",
         "Vũ hồn của Mã Hồng Tuấn là gì?": "Hỏa Phượng Hoàng",
-        
+        "Vũ hồn của Tiểu Vũ là gì?": "Nhu Cốt Thỏ",
         "Vũ hồn thứ hai của Đường Tam là gì?": "Hạo Thiên Chùy",
         "Vũ khí của Đàm Vân trong Nghịch Thiên Chí Tôn là gì?": "Hồng Mông Thần Kiếm",
         "Vũ khí mà Tiêu Viêm trong Đấu Phá Thương Khung luôn mang bên mình có tên gọi là gì?": "Huyền Trọng Xích",
@@ -365,6 +365,7 @@
     }
 
 }
+
 
 
 
