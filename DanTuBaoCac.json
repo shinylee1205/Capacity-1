@@ -1,0 +1,13 @@
+[
+  { "name": "Đan Dược Cửu Phẩm (1)", "range": "81001-243000", "id": "item_1719688384156", "tuviGain": 2592, "cost": 2879 },
+  { "name": "Đan Dược Cửu Phẩm (2)", "range": "81001-243000", "id": "item_1725733669299", "tuviGain": 2592, "cost": 2879 },
+  { "name": "Đan Dược Cửu Phẩm (3)", "range": "81001-243000", "id": "item_1732561908942", "tuviGain": 2592, "cost": 2879 },
+
+  { "name": "Đan Dược Đế Phẩm (1)", "range": "160000-499999", "id": "item_1732562155680", "tuviGain": 3112, "cost": 3454 },
+  { "name": "Đan Dược Đế Phẩm (2)", "range": "160000-499999", "id": "item_1739526256461", "tuviGain": 3112, "cost": 3454 },
+  { "name": "Đan Dược Đế Phẩm (3)", "range": "160000-1000000", "id": "item_1748710720798", "tuviGain": 3112, "cost": 3454 },
+  { "name": "Đan Dược Đế Phẩm (4)", "range": "160000-1000000", "id": "item_1748710720799", "tuviGain": 3112, "cost": 3454 },
+
+  { "name": "Đan Dược Thánh Phẩm (1)", "range": "1000001-1500000", "id": "item_1748710720800", "tuviGain": 4360, "cost": 4842 },
+  { "name": "Đan Dược Thánh Phẩm (2)", "range": "1500001-2187000", "id": "item_1748710720801", "tuviGain": 4360, "cost": 4842 }
+]
