@@ -1,0 +1,9 @@
+[
+  { "id": "dan_duoc_that_pham", "name": "Đan Dược Thất Phẩm" },
+  { "id": "dan_duoc_luc_pham", "name": "Đan Dược Lục Phẩm" },
+  { "id": "dan_duoc_ngu_pham", "name": "Đan Dược Ngũ Phẩm" },
+  { "id": "dan_duoc_tu_pham", "name": "Đan Dược Tứ Phẩm" },
+  { "id": "dan_duoc_tam_pham", "name": "Đan Dược Tam Phẩm" },
+  { "id": "dan_duoc_nhi_pham", "name": "Đan Dược Nhị Phẩm" },
+  { "id": "dan_duoc_nhat_pham", "name": "Đan Dược Nhất Phẩm" }
+]
